@@ -1,5 +1,4 @@
 body {
-    padding-top: 70px;
     padding-bottom: 30px;
 }
 
@@ -8,5 +7,6 @@ img.twenty-five-percent {
 }
 
 img {
-	width: 25%;
+	MAX-WIDTH: 100%;
+	HEIGHT: AUTO;
 }
