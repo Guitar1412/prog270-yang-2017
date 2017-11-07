@@ -1,3 +1,5 @@
+<img src="https://s3-us-west-2.amazonaws.com/websiteportfolio2017/images/Japan/header/jpheader2.jpg" alt="head banner">
+
 # Trip To Japan Day - 4 Oct 14, 2012
 
 Day 4 was a very simple day, we only planned one thing on Day 4 and it was 'sumo wrestling!'

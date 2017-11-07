@@ -1,3 +1,5 @@
+<img src="https://s3-us-west-2.amazonaws.com/websiteportfolio2017/images/Japan/header/jpheader2.jpg" alt="head banner">
+
 # Trip To Japan Day - 3 Oct 13, 2012
 
 Day 3, the most important day of all! Why? Well, it is important for my friend because where we went day was one of the spots

@@ -1,3 +1,5 @@
+<img src="https://s3-us-west-2.amazonaws.com/websiteportfolio2017/images/Japan/header/jpheader2.jpg" alt="head banner">
+
 # Trip To Japan Day - 2 Oct 12, 2012
 
 Day 2, thank to us getting lost yesterday, we saw a Danny's right outside of our hostel. Since Danny's serves western food, three of us

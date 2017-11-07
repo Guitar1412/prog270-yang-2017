@@ -1,3 +1,5 @@
+<img src="https://s3-us-west-2.amazonaws.com/websiteportfolio2017/images/Japan/header/jpheader2.jpg" alt="head banner">
+
 # Trip To Japan Day - 1 Oct 11, 2012
 
 Like many people, traveling to Japan is part of my list bucket, something that I want to do least once in my life.
