@@ -36,6 +36,8 @@ After our delicious lunch meal, we head off to **Zojoji Temple and Tokyo Tower**
 
 Important thing though! It's that I finally learned how to ride the bike well! I learned how to dodge the people on the street, which is something quite difficult to do, since on the rush hour, there are tons of people on the street. If you know the Japanese culture well, most people walk to work, so there are always many people on the street. This tour started out as a nightmare, but in the end I was able to manage to master the riding skill, which I am very proud of myself, and so were the other people from the group, HA~
 
+For those who is interesting doing this bike tour in Tokyo, check [here](http://www.tokyocycling.jp/route-a/), my friends and I did route A, but there are other options as well.
+
 ## Photos
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
   <ol class="carousel-indicators">
