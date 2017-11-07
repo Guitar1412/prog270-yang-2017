@@ -1,4 +1,4 @@
-[Back to Home Page](35.167.164.195)
+[Back to Home Page](/)
 
 <img src="https://s3-us-west-2.amazonaws.com/websiteportfolio2017/images/Japan/header/jpheader2.jpg" alt="head banner">
 
