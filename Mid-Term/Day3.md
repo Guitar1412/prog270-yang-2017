@@ -1,10 +1,10 @@
+[Back to Home Page](35.167.164.195)
+
 <img src="https://s3-us-west-2.amazonaws.com/websiteportfolio2017/images/Japan/header/jpheader2.jpg" alt="head banner">
 
 # Trip To Japan Day - 3 Oct 13, 2012
 
-Day 3, the most important day of all! Why? Well, it is important for my friend because where we went day was one of the spots
-
-that he really want to see! It is the Gundam Statue at the Odaiba~
+Day 3, the most important day of all! Why? Well, it is important for my friend because where we went day was one of the spots that he really want to see! It is the Gundam Statue at the Odaiba~
 
 We started our Day 3 journey from [Asakusa Station to Odaiba](https://goo.gl/maps/ks32rkdG2En).
 
@@ -19,23 +19,20 @@ We started our Day 3 journey from [Asakusa Station to Odaiba](https://goo.gl/map
 | Gundam Statue | Miraikan |
 
 ### Gundam Statue - Odaiba
-If you are a Gundam fan like my friend, then you TOTALLY need to come to **Odaiba** to see this Gundam Statue! Far as I know
-
-they have replace a new Gundam Statue over there now. It is not an illuminated life-size [Unicorn Gundam Statue](https://www.japantimes.co.jp/news/2017/09/24/national/gundams-20-meter-replacement-statue-unveiled-odaiba/#.Wf_a5mhSyUk). Go see it now!
+If you are a Gundam fan like my friend, then you TOTALLY need to come to **Odaiba** to see this Gundam Statue! Far as I know they have replace a new Gundam Statue over there now. It is not an illuminated life-size [Unicorn Gundam Statue](https://www.japantimes.co.jp/news/2017/09/24/national/gundams-20-meter-replacement-statue-unveiled-odaiba/#.Wf_a5mhSyUk). Go see it now!
 
 ### Tokyo Ramen Kokugikan Mai
 
 This is one of the biggest [ramen festival](http://www.aquacity.jp.e.yp.hp.transer.com/tokyo_ramen_kokugikan/)! There are so many different ramen choice here!  
 
-The festival was there when we were in Japan, which was during October, I am not 100% sure if this event is seasonal, but if you planning
+The festival was there when we were in Japan, which was during October, I am not 100% sure if this event is seasonal, but if you planning on going to Odaiba during October, then definitely go there to have a bawl of a delicious ramen!
 
-on going to Odaiba during October, then definitely go there to have a bawl of a delicious ramen!
+<img src="https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/23172374_10159565726580472_6011641824992778755_n.jpg?oh=a89d118740b1f1df9f9f99401f865778&oe=5AA4D8E2" alt="ramen!">
+- It is really yummy! In my honest opinion, their ramen are not as salty as the one you can find in the United States.
 
 ### Miraikan
 
-[Miraikan](http://www.miraikan.jst.go.jp/en/) is a science / innovation museum. The display all the current invented technology and also future technology, like robots and
-
-medicines.
+[Miraikan](http://www.miraikan.jst.go.jp/en/) is a science / innovation museum. The display all the current invented technology and also future technology, like robots and medicines.
 
 This is a great place for kids to learn about robot science and science evolution.
 
@@ -47,11 +44,7 @@ This is a great place for kids to learn about robot science and science evolutio
 - Hot
 - Warm
 
-For the out door, they have regular onsen and **foot bath**! They also provide a pebbles walk passage, for those who likes foot massages
-
-as they walk pass through the theme park.
-
-There is a in door festive mall and restaurant, as you enjoy your dinner meal, you can watch their live talk show and festive dance in their
+For the out door, they have regular onsen and **foot bath**! They also provide a pebbles walk passage, for those who likes foot massages as they walk pass through the theme park. There is a in door festive mall and restaurant, as you enjoy your dinner meal, you can watch their live talk show and festive dance in their
 
 EdoTown.
 

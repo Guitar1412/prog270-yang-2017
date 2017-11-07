@@ -1,20 +1,12 @@
+[Back to Home Page](35.167.164.195)
+
 <img src="https://s3-us-west-2.amazonaws.com/websiteportfolio2017/images/Japan/header/jpheader2.jpg" alt="head banner">
 
 # Trip To Japan Day - 4 Oct 14, 2012
 
-Day 4 was a very simple day, we only planned one thing on Day 4 and it was 'sumo wrestling!'
+Day 4 was a very simple day, we only planned one thing on Day 4 and it was 'sumo wrestling!' First time I ever saw sumo was on TV when I was young. It is a very interesting sport. I was never expecting to seen sumo wrestling throughout my life until now. Well, we were doing this because my friend planned it.
 
-First time I ever saw sumo was on TV when I was young. It is a very interesting sport. I was never expecting to seen
-
-sumo wrestling throughout my life until now. Well, we were doing this because my friend planned it.
-
-Even though I was not expected to see it, but like any other sports, it feels different when you are watching it LIVE.
-
-One thing I noticed was that even know this is not a big tournament, but the gym (where it was hosted) was completely filled
-
-with people. Audience's age range is huge, from little kids to grandpa/grandma. As the tournament started, you can feel that
-
-everyone's excitement and their passion for this sport. If you are in Japan, I recommend you to go see Sumo wrestling LIVE least once.
+Even though I was not expected to see it, but like any other sports, it feels different when you are watching it LIVE. One thing I noticed was that even know this is not a big tournament, but the gym (where it was hosted) was completely filled with people. Audience's age range is huge, from little kids to grandpa/grandma. As the tournament started, you can feel that everyone's excitement and their passion for this sport. If you are in Japan, I recommend you to go see Sumo wrestling LIVE least once.
 
 
 ## Day 4 Schedule
