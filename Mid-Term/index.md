@@ -17,3 +17,7 @@ Thank you for coming and hope you have a nice stay!
 - [Day 4](http://35.167.164.195/Day4.html)
 
 - [Day 5](http://35.167.164.195/Day5.html)
+
+- [Day 6](http://35.167.164.195/Day6.html)
+
+- [Day 7](http://35.167.164.195/Day7.html)
