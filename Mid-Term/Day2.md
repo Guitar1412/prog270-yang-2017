@@ -1,13 +1,15 @@
+[Back to Home Page](/)
+
+<img src="https://s3-us-west-2.amazonaws.com/websiteportfolio2017/images/Japan/header/jpheader2.jpg" alt="head banner">
+
 # Trip To Japan Day - 2 Oct 12, 2012
 
-Day 2, thank to us getting lost yesterday, we saw a Danny's right outside of our hostel. Since Danny's serves western food, three of us
+Day 2, thank to us getting lost yesterday, we saw a Danny's right outside of our hostel. Since Danny's serves western food, three of us decided to go there and have our first breakfast in Japan. Now you might ask why are we eating western food in Japan, as you might remember that I said during Day 1 journey, many local citizens are very shy to respond us in English. Therefore, going to a western type of restaurant might be easier for us to order some food and ask some information.
+<img src="https://scontent.fsnc1-1.fna.fbcdn.net/v/t31.0-8/23331384_10159565726740472_5201209693876890371_o.jpg?oh=408f1e0ac7a45deb84479cf737e4cd6c&oe=5A687C28" alt="breakfast">
+- Denny's Japanese style breakfast!
 
-decided to go there and have our first breakfast in Japan. Now you might ask why are we eating western food in Japan,
-
-as you might remember that I said during Day 1 journey, many local citizens are very shy to respond us in English. Therefore,
-
-going to a western type of restaurant might be easier for us to order some food and ask some information.
-
+<img src="https://scontent.fsnc1-1.fna.fbcdn.net/v/t1.0-9/23316257_10159565726465472_3276371568912717851_n.jpg?oh=9d21d0e66bbb0a067fa3541decda47a2&oe=5A6F291A" alt="dessert">
+- Let's not forget about the SWEETS after the meal!
 
 ## Day 2 Schedule
 
@@ -25,9 +27,7 @@ I have seen it on the TV and people are always talking about it.
 
 ### Sensō-ji
 
-Now, I am not saying that **Sensō-ji** is not famous, it's just personally I rather heard the name of the temple from tourists that have
-
-been to Japan-Asakusa many times. Although I did saw tons of tourist when I was standing outside of the temple.
+Now, I am not saying that **Sensō-ji** is not famous, it's just personally I rather heard the name of the temple from tourists that have been to Japan-Asakusa many times. Although I did saw tons of tourist when I was standing outside of the temple.
 
 ### Kaminarimon Gate
 
@@ -43,11 +43,7 @@ For more information feel free to check out this website [Tokyo SkyTree Tower](h
 
 ### Gundam Cafe
 
-This is one of the spot that my friend has picked, he really likes Gundam, and since we do not feel like going to 'Maid Cafe', so
-
-we chose 'Gundam Cafe' to have our lunch. As you can see the photos below in the photo section, their menu is very fancy, their food
-
-design is all related to Gundam! They also have TV screen playing Gundam music and have Gundam models around on the wall to display.
+This is one of the spot that my friend has picked, he really likes Gundam, and since we do not feel like going to 'Maid Cafe', so we chose 'Gundam Cafe' to have our lunch. As you can see the photos below in the photo section, their menu is very fancy, their food design is all related to Gundam! They also have TV screen playing Gundam music and have Gundam models around on the wall to display.
 
 ### Akihabara
 
@@ -57,9 +53,7 @@ If you are a nerd then you will know this place, why? WELL, if you like the foll
 - mangas
 - cosplay
 
-We did not spent much time here because we are mainly here for 'Gundam Cafe.' Many of the art show does not allow photographing, so
-
-I do not have any photos to show for.
+We did not spent much time here because we are mainly here for 'Gundam Cafe.' Many of the art show does not allow photographing, so I do not have any photos to show for.
 
 ## Photos
 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
