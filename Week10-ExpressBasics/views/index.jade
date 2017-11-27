@@ -1,0 +1,12 @@
+extends layout
+include my-mixin
+
+block content
+  h1= title
+  p Welcome everyone to #{title}
+
+  +qux
+
+  button#foo Foo
+
+  p#output
