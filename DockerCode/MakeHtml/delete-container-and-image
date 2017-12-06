@@ -1,0 +1,6 @@
+#!/bin/bash
+
+docker stop maker
+docker rm maker
+docker rmi guitar1412/make-html2
+

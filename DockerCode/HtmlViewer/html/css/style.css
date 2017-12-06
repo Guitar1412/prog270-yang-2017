@@ -1,0 +1,12 @@
+body {
+    padding-bottom: 30px;
+}
+
+img.twenty-five-percent {
+   width: 25%;
+}
+
+img {
+	MAX-WIDTH: 100%;
+	HEIGHT: AUTO;
+}

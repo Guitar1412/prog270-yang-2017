@@ -1,0 +1,6 @@
+#!/bin/bash
+
+docker stop html-viewer-container
+docker rm html-viewer-container
+docker rmi shawnyang/html-viewer
+

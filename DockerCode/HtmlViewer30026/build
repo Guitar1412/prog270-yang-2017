@@ -1,0 +1,4 @@
+#!/bin/bash
+
+docker build -t shawnyang/html-viewer30026 .
+docker run --name html-viewer30026-container --restart unless-stopped -d -p 30026:80 shawnyang/html-viewer30026    

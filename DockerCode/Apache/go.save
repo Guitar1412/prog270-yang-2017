@@ -1,0 +1,2 @@
+docker build -t Guitar1412
+/apache .

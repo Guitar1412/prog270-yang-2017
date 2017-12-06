@@ -1,0 +1,6 @@
+#!/bin/bash
+
+docker build -t guitar1412/make-html2 .
+docker run --name maker -d -p 80:80 guitar1412/make-html2
+docker exec -it maker /bin/bash
+
